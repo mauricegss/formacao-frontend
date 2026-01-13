@@ -1,0 +1,166 @@
+body{
+    padding-bottom: 500px;
+}
+
+h3{
+    color: green;
+}
+
+/* COMENTÁRIOS NO CSS */
+
+/* classes */
+.paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+/* ids */
+#exclusive-p{
+    color: darkmagenta;
+}
+
+/* cores */
+.color-name{
+    color: crimson;
+}
+
+.color-hex{
+    color: #00ffffff;
+}
+
+.color-rgb{
+    color: rgb(0, 0, 255)
+}
+
+.color-rgba{
+    color: rgba(255,0,0,0.5)
+}
+
+.color-hsl{
+    color: hsl(125, 100%, 80%)
+}
+
+/* Mudar Background do Texto e Opacidade */
+.bg{
+    color: rgb(71, 22, 22);
+    background-color: rgba(5, 68, 31, 0.568);
+}
+
+.img-bg{
+    background-image: url("../img/github_image.png");
+    padding: 10px;
+    color: #fff;
+}
+.img-bg{
+    background-image: url("../img/linkedin_image.png");
+    padding: 10px;
+    color: #fff;
+}
+
+.not-centered-bg,
+.centered-bg{
+    background-image: url("../img/github_image.png");
+    height: 400px;
+    width: 400px;
+}
+
+.centered-bg{
+    background-size: cover;
+}
+
+/* altura e largura */
+.height-width{
+    height: 200px;
+    width: 100px;
+    background-color: green;
+}
+
+.height-width-2{
+    height: 100px;
+    width: auto;
+    background-color: red;
+}
+
+.padding{
+    padding: 10px;
+}
+
+/* Padding Individual */
+.padding-left{
+    padding-left: 200px;
+}
+
+/* Shorhand Padding */
+.shorthand-padding{
+    padding: 6px 12px 18px 24px;
+    /* top right bottom left */
+    background-color: rosybrown;
+}
+.shorthand-padding-2{
+    padding: 10px 20px;
+    /* top-down right-left */
+    background-color: palegreen;
+}
+
+/* padding com width */
+.without-border-box{
+    background-color: #444;
+    color: #fff;
+    width: 400px;
+    padding: 50px;
+}
+
+.border-box{
+    background-color: darkgreen;
+    color: #fff;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+/* Border */
+.border{
+    border: 5px solid red;
+    padding: 10px;
+}
+
+.border-2{
+    border: 2px dotted #00ffffff;
+}
+
+.border-left{
+    border-left: 20px solid yellow;
+    background-color: black;
+    padding: 25px;
+}
+
+.border-bottom{
+    border-bottom: 20px double black;
+    background-color: aqua;
+    padding: 25px;
+}
+
+.border-radius{
+    background-color: red;
+    border-radius: 100px;
+    border: 4px solid blue;
+    padding: 15px;
+}
+
+/* MARGEM */
+.margin{
+    margin: 10px;
+    background-color: #444;
+}
+
+.margin-top{
+    margin-top: 50px;
+    background-color: #222;
+    padding: 10px;
+}
+
+.margin-shorthand{
+    background-color: #666;
+    margin: 5px 10px 15px 20px;
+}

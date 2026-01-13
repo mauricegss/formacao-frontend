@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <!-- 3. Internal CSS -->
+    <style>
+        p{
+            color: red;
+        }
+    </style>
+    <!-- 4. External CSS -->
+     <!-- Cascadin Style Sheets -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/lists.css">
+</head>
+<body>
+    <!-- 1. Inline CSS -->
+    <h1 style="color: darkblue">Mudar Cor com Inline</h1>
+    <h1 style="color: blue">Outra Cor</h1>
+    <!-- 2. Multiplas Regras -->
+    <h1 style="color: purple; font-size: 50px; border-bottom: 1px solid red;">Mudar Cor e Tamanho da Fonte</h1>
+    <!-- 3. Internal CSS -->
+    <p>Parágrafos agora são Vermelhos!</p>
+    <!-- 4. External CSS -->
+    <h3>"h3" todos Verdes!</h3>
+    <!-- 5. Ordem do CSS -->
+    <p style="color:darkslategray">Mas esse Parágrafo não é Vermelho!</p>
+    <!-- 6. Multiplos CSS-->
+    <ul>
+        <li>Banana</li>
+        <li>Maçã</li>
+        <li>Pera</li>
+    </ul>
+    <!-- 8. Classes -->
+    <p class="paragraph">Todos os Parágrafos "paragraph" serão assim!</p>
+    <!-- 9. IDs -->
+    <p id="exclusive-p">Apenas esse parágrafo é assim!</p>
+    <!-- 10. Ordem dos Seletores -->
+    <p id="exclusive-p" class="paragraph">Ordem das Regras!</p>
+    <!-- Background e Cor no CSS-->
+    <h1 class="bg">Título Alterado Conforme RGB e Background</h1>
+    <!-- Background Texto com Imagem -->
+    <h2 class="img-bg">Texto com Background de Imagem</h2>
+    <!-- Background com Imagem CENTRALIZADA -->
+    <div class="not-centered-bg"></div>
+    <div class="centered-bg"></div>
+    <!-- ALTURA E LARGURA -->
+    <div class="height-width"></div>
+    <div class="height-width-2"></div>
+    <!-- Padding -->
+    <p>Sem Padding!</p>
+    <p class="padding">Com Padding!</p>
+    <p class="padding-left">Com Padding Individual (left)!</p>
+    <!-- Shorthand padding -->
+    <p class="shorthand-padding">Shorthand-Padding</p>
+    <p class="shorthand-padding-2">Shorthand-Padding-2</p>
+    <!-- padding com width -->
+    <div class="without-border-box">
+        <p>Algum Texto</p>
+    </div>
+    <div class="border-box">
+        <p>Algum Texto 2</p>
+    </div>
+    <!-- BORDER -->
+    <div class="border">Borda</div>
+    <div class="border-2">Borda 2</div>
+    <!-- BORDER INDIVIDUAL -->
+    <div class="border-left"></div>
+    <div class="border-bottom"></div>
+    <!-- BORDER ARREDONDADA -->
+    <div class="border-radius"></div>
+    <!-- MARGIN -->
+    <div class="margin">Eu tenho margem</div>
+    <div class="margin-top">Eu tenho margem top</div>
+    <div class="margin-shorthand">Eu tenho margem shorthand</div>
+</body>
+</html>
