@@ -1,46 +1,46 @@
-# Formação Front-end - HTML, CSS, JavaScript, React e +
+# Formação Front-end - Parte 1: HTML e CSS 🚀
 
-Este repositório contém o progresso, exercícios e projetos desenvolvidos durante a **Formação Front-end** ministrada por **Matheus Battisti (Hora de Codar)**. O curso é focado em transformar alunos iniciantes em desenvolvedores front-end completos, utilizando tecnologias modernas e boas práticas de mercado.
+Este repositório faz parte da minha jornada na **Formação Front-end** do Matheus Battisti (Hora de Codar). O objetivo desta etapa é dominar a estrutura e a estilização de aplicações web, indo do básico ao avançado.
 
-## 🚀 Sobre o Curso
+> **Nota:** Este é o primeiro de uma série de repositórios que compõem a formação completa (HTML/CSS, JavaScript, React e TypeScript).
 
-A formação é dividida em módulos pela plataforma do **Udemy** que cobrem desde os fundamentos básicos até conceitos avançados de desenvolvimento web. O foco principal é o aprendizado prático através da criação de projetos reais para compor um portfólio sólido.
+## 📚 Sobre este Módulo
+Neste módulo, o foco foi a construção da base fundamental do desenvolvimento web. Através de uma abordagem prática, exploro a integração entre a estrutura semântica do HTML5 e o poder visual do CSS3, desenvolvendo a habilidade de transformar conceitos de design em interfaces modernas, organizadas e totalmente adaptadas para qualquer tamanho de tela.
 
-### O que estou aprendendo:
-
-* **HTML5 e CSS3:** Do básico ao avançado, incluindo semântica, Box Model, Flexbox e Positions.
-* **JavaScript:** Lógica de programação, manipulação de DOM e eventos.
-* **React JS:** Componentização, Hooks (useState, useEffect), Context API e State Lift.
-* **TypeScript:** Tipagem estática aplicada ao ecossistema React.
-* **Boas Práticas:** Escrita de código limpo (Clean Code) e desenvolvimento orientado a projetos.
+### Principais tópicos abordados:
+* **HTML5:** Tags, semântica e estruturação de documentos.
+* **CSS3:** Box Model, seletores, Positions, Flexbox e estilização avançada.
+* **Responsividade:** Criação de layouts que se adaptam a diferentes dispositivos.
 
 ---
 
-## 📂 Estrutura do Repositório (Progresso)
+## 📂 Estrutura de Aprendizado
+O repositório está organizado por módulos seguindo a cronologia do curso:
 
-O repositório está organizado por módulos seguindo a ordem cronológica do aprendizado:
-
-1. **`1_INTRO/`**: Primeiros passos e introdução ao ambiente de desenvolvimento.
-2. **`2_HTML/`**: Fundamentos de HTML, tags, listas, tabelas e links.
-3. **`3_CSS/`**: Estilização avançada, seletores, classes, IDs, modelos de caixa e posicionamento.
-4. **`4_PROJETO_TRIBUTO/`**: Primeiro projeto prático aplicando conhecimentos de HTML e CSS.
-5. **`5_FORM/`**: Estudo detalhado de formulários: inputs, selects, textareas e validações.
-6. **`6_PROJETO_FORM/`**: Projeto prático de criação de um formulário de venda de veículos estilizado.
+1. **`1_INTRO/`**: Configuração do ambiente e primeiros passos.
+2. **`2_HTML/`**: Tags fundamentais, listas e links.
+3. **`3_CSS/`**: Cores, fontes, bordas e espaçamentos.
+4. **`4_PROJETO_TRIBUTO/`**: Página informativa sobre o jogo Baldur's Gate 3.
+5. **`5_FORM/`**: Estudo completo de inputs e validações.
+6. **`6_PROJETO_FORM/`**: Interface de venda de veículos.
+7. **`7_RESPONSIVIDADE/`**: Técnicas para tornar os projetos acessíveis em mobile.
+8. **`8_PROJETO_HOST/`**: Criação de uma landing page para serviço de hospedagem.
 
 ---
 
-## 🛠️ Projetos em Destaque
+## 💻 Projetos em Destaque
 
 ### 🎮 Página de Tributo: Baldur's Gate 3
-
-Um projeto focado em semântica HTML e estilização CSS para criar uma página informativa sobre o jogo **Baldur's Gate 3**.
-
-* **Tecnologias:** HTML5 e CSS3.
-* **Destaques:** Uso de listas personalizadas, seções de citação e layout organizado com uso de imagens.
+Projeto focado em semântica e layout organizado. Aplicação prática de listas personalizadas e seções de citação.
 
 ### 🚗 Formulário: Venda de Carros
+Desenvolvimento de uma UI moderna inspirada no Google Forms, explorando diversos tipos de entradas e campos obrigatórios.
 
-Um projeto que desenvolve um formulário completo e para o anúncio de veículos.
+### 🌐 Landing Page: hDCHost
+Uma landing page profissional para serviços de hospedagem, explorando layouts flexíveis com Flexbo integração de ícones externos, e foco total em adaptabilidade para diferentes dispositivos.
 
-* **Tecnologias:** HTML5 e CSS3 (focado em UI de formulários).
-* **Destaques:** Uso de diversos tipos de entrada, campos obrigatórios e um layout moderno inspirado no Google Forms.
+---
+
+## 🔗 Outras Partes da Formação
+* [Parte 2: JavaScript (Em breve)]()
+* [Parte 3: React e TypeScript (Em breve)]()
