@@ -29,6 +29,8 @@ O repositório está organizado por módulos seguindo a cronologia do curso:
 9. **`9_FLEXBOX/`**: Aprofundamento em alinhamentos e layouts flexíveis.
 10. **`9.5_DEPLOY/`**: (Extra) Focado em ensinar como realizar deploys web e aplicar temas (Dark Mode).
 11. **`10_PROJETO_INSTA/`**: Clone da página de login do Instagram (Foco em CSS).
+12. **`11_HTML_SEMANTICO/`**: Introdução prática e conceitos de tags semânticas no HTML.
+13. **`12_PROJETO_BLOG/`**: Construção de um layout de blog completo aplicando HTML Semântico e CSS.
 
 ---
 
@@ -46,8 +48,11 @@ Uma landing page profissional para serviços de hospedagem, explorando layouts f
 ### 📸 Clone: Login Instagram
 Replicação da página de login do Instagram (Desktop e Mobile). O projeto consolida o uso de containers flexíveis para o alinhamento dos elementos, e aplica media queries para ajuste de layout.
 
+### 📝 Blog Semântico
+Um layout estruturado focando nas melhores práticas de SEO e acessibilidade através do HTML Semântico. O projeto conta com barra de navegação, área de posts, sidebar com widgets e rodapé.
+
 ---
 
 ## 🔗 Outras Partes da Formação
-* [Parte 2: JavaScript (Em breve)]()
+* [Parte 2: JavaScript](https://github.com/mauricegss/ff-javascript)
 * [Parte 3: React e TypeScript (Em breve)]()
